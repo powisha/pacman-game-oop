@@ -16,3 +16,6 @@ The project focuses on implementing character movement, basic game mechanics, an
 - Object-Oriented Programming
 - Classes & Inheritance
 - Game logic structuring in Java
+
+Note: This project was developed and tested in IntelliJ IDEA.
+
